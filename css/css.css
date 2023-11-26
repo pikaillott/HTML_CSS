@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+}
+
+.soup1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo_area img{
+    width: 100%;
+    margin-bottom: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 200%;
+}
+.foodimgNames{
+    margin-top: 4vw;
+    font-size: 150%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.foodimg{
+    margin-top: 1vw;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+footer{
+    width: auto;
+    display: flex;
+    text-align: center;
+}
+.titleSOTD{
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+    font-size: 300%;
+}
+.SOTD{
+    margin-top: 2vw;
+    display: flex;
+    align-items: center;
+}
+
+.bodySOTD{
+    margin-top: 3vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    font-size: 150%;
+}
+.social{
+    margin-top: 5vw;
+    margin-left: 2vw;
+    margin-bottom: 2vw;
+    font-size: 120%;
+}
+.uhoh{
+    margin-top: 8vw;
+    text-align: center;
+    font-size: 300%;
+}
+.RecipeUI{
+    margin-top: 5vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.RecipeText{
+    margin-left: 12vw;
+    margin-top: 7vw;
+    font-size: 300%;
+}
+.RecipeImg{
+    margin-left: auto;
+    margin-right: 10vw;
+}
